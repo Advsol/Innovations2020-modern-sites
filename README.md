@@ -13,7 +13,7 @@ If you would like to be notified when changes are made to this repository (e.g. 
 
 To install the demo website and theme follow these steps:
 1. Download the contents of this repository.
-2. Next you will need to zip up the contents of the "Latte" folder, which contains all theme assets.
+2. Next you will need to zip up the "Latte" folder, which contains all theme assets.
 3. Under RiSE > Tagging > Tagged list formats import the ContentTaggedLists.xml file and publish.
 4. Under RiSE > Document system select the "images" folder then import the Images.xml file.
 5. Under RiSE > Document system select the “Common/Uploaded files” folder then import the Videos.xml file.
