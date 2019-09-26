@@ -1,5 +1,4 @@
-# DiscoveryDay2019-modern-sites
-Creating Modern Websites in RiSE
+# Creating Modern Websites in RiSE
 
 Included in this repository are assets so you can include the Latte theme in your instance of iMIS. Please note this website and theme are for demonstration purposes only and have only been tested in Chrome for Windows 10. Additionally, the theme was designed for iMIS Cloud Enterprise version 20.3.44 and some things may not work as expected in earlier versions of iMIS.
 
